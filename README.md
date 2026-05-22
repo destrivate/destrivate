@@ -7,19 +7,10 @@
 ### 🛠️ Мой стек технологий / Tech Stack
 
 <p align="left">
-  <!-- Java -->
-  <img src="https://shields.io" alt="Java" />
-  <!-- Python -->
-  <img src="https://shields.io" alt="Python" />
-  <!-- C++ -->
-  <img src="https://shields.io" alt="C++" />
-  <!-- Git -->
-  <img src="https://shields.io" alt="Git" />
-</p>
-
-### 📊 Статистика GitHub
-
-<p align="left">
-  <img src="https://vercel.app" alt="destrivate GitHub Stats" height="180" />
-  <img src="https://vercel.app" alt="destrivate Top Langs" height="180" />
+  <img src="[https://shields.io](https://img.shields.io/badge/Java-ED8B00
+)" alt="Java" />
+  <img src="[https://shields.io](https://img.shields.io/badge/Python-3776AB
+)" alt="Python" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C
+" alt="C++" />
 </p>
