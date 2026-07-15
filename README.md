@@ -10,4 +10,6 @@
   <img src="https://img.shields.io/badge/Java-ED8B00" alt="Java" />
   <img src="https://img.shields.io/badge/Python-3776AB" alt="Python" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C" alt="C++" />
+  <img src="https://img.shields.io/badge/JavaScipt-FD9B00" alt="JavaScript" />
 </p>
+
