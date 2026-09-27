@@ -7,9 +7,9 @@
 ---
 
 ## 🧰 My stack
-[![My stack](https://skillicons.dev/icons?i=c,cpp,python,bash)](https://skillicons.dev)]
+[![My stack](https://skillicons.dev/icons?i=c,cpp,python,bash)](https://skillicons.dev)
 ## 📖 Instruments , Os and DB
-[![My Skills](https://skillicons.dev/icons?i=postgresql,git,arch,linux)](https://skillicons.dev)
+[![Instruments](https://skillicons.dev/icons?i=postgresql,git,arch,linux)](https://skillicons.dev)
 
 ---
 
