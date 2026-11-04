@@ -9,7 +9,9 @@
 ## 🧰 My stack
 [![My stack](https://skillicons.dev/icons?i=c,java,python,bash)](https://skillicons.dev)
 ## 📖 Instruments , Os and DB
-[![Instruments](https://skillicons.dev/icons?i=springboot,gradle,postgresql,git,docker,arch,linux)](https://skillicons.dev)
+[![Instruments](https://skillicons.dev/icons?i=gradle,postgresql,git,docker,arch,linux)](https://skillicons.dev)
+
+Пробую работать со spring boot
 
 ---
 
