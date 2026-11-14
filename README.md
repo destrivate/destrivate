@@ -22,7 +22,6 @@
 ## 📫 Contacts
 
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.gg/destrivate)
-[![Telegram](https://skillicons.dev/icons?i=telegram)](https://t.me/destrivate)
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/destrivate)
 
 ---
